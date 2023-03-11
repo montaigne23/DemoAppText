@@ -1,0 +1,217 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "attributes": {
+                "description": "j'qi;e se aue je fait tous les jour, nuit et jour sans me fatiguer une seconde",
+                "createdAt": "2023-03-10T23:27:45.770Z",
+                "updatedAt": "2023-03-10T23:27:53.977Z",
+                "publishedAt": "2023-03-10T23:27:53.973Z",
+                "imagepost": {
+                    "data": {
+                        "id": 8,
+                        "attributes": {
+                            "name": "4c4bedf5-04a9-4a3a-84ea-505325bad956.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 736,
+                            "height": 1065,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "/uploads/large_4c4bedf5_04a9_4a3a_84ea_505325bad956_701fb965e9.jpg",
+                                    "hash": "large_4c4bedf5_04a9_4a3a_84ea_505325bad956_701fb965e9",
+                                    "mime": "image/jpeg",
+                                    "name": "large_4c4bedf5-04a9-4a3a-84ea-505325bad956.jpg",
+                                    "path": null,
+                                    "size": 105.24,
+                                    "width": 691,
+                                    "height": 1000
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "/uploads/small_4c4bedf5_04a9_4a3a_84ea_505325bad956_701fb965e9.jpg",
+                                    "hash": "small_4c4bedf5_04a9_4a3a_84ea_505325bad956_701fb965e9",
+                                    "mime": "image/jpeg",
+                                    "name": "small_4c4bedf5-04a9-4a3a-84ea-505325bad956.jpg",
+                                    "path": null,
+                                    "size": 36.1,
+                                    "width": 346,
+                                    "height": 500
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "/uploads/medium_4c4bedf5_04a9_4a3a_84ea_505325bad956_701fb965e9.jpg",
+                                    "hash": "medium_4c4bedf5_04a9_4a3a_84ea_505325bad956_701fb965e9",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_4c4bedf5-04a9-4a3a-84ea-505325bad956.jpg",
+                                    "path": null,
+                                    "size": 68.64,
+                                    "width": 518,
+                                    "height": 750
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "/uploads/thumbnail_4c4bedf5_04a9_4a3a_84ea_505325bad956_701fb965e9.jpg",
+                                    "hash": "thumbnail_4c4bedf5_04a9_4a3a_84ea_505325bad956_701fb965e9",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_4c4bedf5-04a9-4a3a-84ea-505325bad956.jpg",
+                                    "path": null,
+                                    "size": 5.26,
+                                    "width": 108,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "4c4bedf5_04a9_4a3a_84ea_505325bad956_701fb965e9",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 109.58,
+                            "url": "/uploads/4c4bedf5_04a9_4a3a_84ea_505325bad956_701fb965e9.jpg",
+                            "previewUrl": null,
+                            "provider": "local",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-10T23:27:19.726Z",
+                            "updatedAt": "2023-03-10T23:27:19.726Z"
+                        }
+                    }
+                },
+                "commentaires": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "id": 2,
+            "attributes": {
+                "description": "la voie de l'eau",
+                "createdAt": "2023-03-10T23:28:40.795Z",
+                "updatedAt": "2023-03-10T23:28:43.889Z",
+                "publishedAt": "2023-03-10T23:28:43.886Z",
+                "imagepost": {
+                    "data": {
+                        "id": 7,
+                        "attributes": {
+                            "name": "Amos.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 600,
+                            "height": 691,
+                            "formats": {
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "/uploads/small_Amos_d9fcdc09c6.jpg",
+                                    "hash": "small_Amos_d9fcdc09c6",
+                                    "mime": "image/jpeg",
+                                    "name": "small_Amos.jpg",
+                                    "path": null,
+                                    "size": 28.98,
+                                    "width": 434,
+                                    "height": 500
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "/uploads/thumbnail_Amos_d9fcdc09c6.jpg",
+                                    "hash": "thumbnail_Amos_d9fcdc09c6",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_Amos.jpg",
+                                    "path": null,
+                                    "size": 4.64,
+                                    "width": 136,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "Amos_d9fcdc09c6",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 46.24,
+                            "url": "/uploads/Amos_d9fcdc09c6.jpg",
+                            "previewUrl": null,
+                            "provider": "local",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-10T23:27:19.577Z",
+                            "updatedAt": "2023-03-10T23:27:38.560Z"
+                        }
+                    }
+                },
+                "commentaires": {
+                    "data": [
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "message": "je valide",
+                                "createdAt": "2023-03-10T23:30:57.778Z",
+                                "updatedAt": "2023-03-10T23:30:59.959Z",
+                                "publishedAt": "2023-03-10T23:30:59.956Z"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 3,
+            "attributes": {
+                "description": "Le prophète A;os a fait bien de bonne chose dans sa vie que Dieu lui même a pose ses main sur lui",
+                "createdAt": "2023-03-10T23:29:59.812Z",
+                "updatedAt": "2023-03-11T01:55:20.768Z",
+                "publishedAt": "2023-03-10T23:31:14.198Z",
+                "imagepost": {
+                    "data": {
+                        "id": 5,
+                        "attributes": {
+                            "name": "Amos - Wikipedia.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 241,
+                            "height": 300,
+                            "formats": {
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "/uploads/thumbnail_Amos_Wikipedia_9cde94b9ae.jpg",
+                                    "hash": "thumbnail_Amos_Wikipedia_9cde94b9ae",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_Amos - Wikipedia.jpg",
+                                    "path": null,
+                                    "size": 8.02,
+                                    "width": 125,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "Amos_Wikipedia_9cde94b9ae",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 27.08,
+                            "url": "/uploads/Amos_Wikipedia_9cde94b9ae.jpg",
+                            "previewUrl": null,
+                            "provider": "local",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-10T23:27:19.231Z",
+                            "updatedAt": "2023-03-11T01:55:06.767Z"
+                        }
+                    }
+                },
+                "commentaires": {
+                    "data": [
+                        {
+                            "id": 1,
+                            "attributes": {
+                                "message": "ca c'est vrai",
+                                "createdAt": "2023-03-10T23:30:32.478Z",
+                                "updatedAt": "2023-03-10T23:30:43.588Z",
+                                "publishedAt": "2023-03-10T23:30:43.585Z"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 3
+        }
+    }
+}
